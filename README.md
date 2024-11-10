@@ -1,6 +1,6 @@
-# Hi, I'm Krishnendu! 👋
+# Hi, I'm [Krishnendu](https://github.com/KrishnenduMR)! 👋
 
-Welcome to my GitHub profile! I'm a [prefinal year Computer Science Engineering student at Guindy, Anna University](https://github.com/KrishnenduMR), currently building projects, learning new technologies, and exploring the world of software engineering.
+Welcome to my GitHub profile! I'm a prefinal year Computer Science Engineering student at Guindy, Anna University, currently building projects, learning new technologies, and exploring the world of software engineering.
 
 ## 🚀 About Me
 
