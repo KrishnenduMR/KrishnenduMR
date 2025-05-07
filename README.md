@@ -10,11 +10,10 @@ I’m a pre-final year Computer Science Engineering student at Guindy, Anna Univ
 ## Technical Skills and Tools
 - **Languages**: Python, JavaScript, TypeScript, C
 - **Frontend**: ReactJS, Tailwind CSS, Bootstrap
-- **Backend**: NodeJS, Express, Flask, MySQL, MongoDB, Firebase
+- **Backend**: NextJS, NodeJS, Express, Flask, MySQL, MongoDB, Firebase
 - **ML & Data Tools**: Pandas, NumPy, Apache Spark, Jupyter Notebook
 - **Dev Tools**: Git, GitHub Actions, Docker, JWT, REST API
 - **Other**: NextJS, GraphQL, Mongoose
- Developed a real-time safety platform tailored to women's safety, featuring emergency assistance, speech-to-text, location tracking, and journey planning. Built with **React.js**, **Django**, and **MySQL**.
 
 ## Contact Information
 - [LinkedIn](https://www.linkedin.com/in/krishnendumr)
